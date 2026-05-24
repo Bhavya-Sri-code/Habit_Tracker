@@ -79,7 +79,7 @@ npm install
 # Install Lucide React icons
 npm install lucide-react
 
-LIVE SERVER - https://habit-tracker-devweekend.netlify.app/
-
 # Start development server
 npm run dev
+
+LIVE SERVER - https://habit-tracker-devweekend.netlify.app/
