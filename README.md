@@ -3,6 +3,7 @@
 A responsive single-page habit tracker built with React and Vite.
 
 The application allows users to:
+
 - Add habits
 - Rename habits
 - Delete habits
@@ -26,32 +27,38 @@ The application allows users to:
 # Features
 
 ## Habit Management
+
 - Add new habits
 - Rename habits inline
 - Delete habits instantly
 
 ## Weekly Tracking Grid
+
 - Habits displayed vertically
 - Seven-day weekly layout
 - Toggleable completion cells
 - Today's column visually highlighted
 
 ## Date Navigation
+
 - Previous week navigation
 - Next week navigation
 - Back to current week shortcut
 - Dynamic weekly date range display
 
 ## Streak Tracking
+
 - Consecutive-day streak calculation
 - Works across multiple weeks
 - Historical checkmarks preserved after refresh
 
 ## Persistence
+
 - Habits and progress stored in LocalStorage
 - Data survives full page reloads
 
 ## Responsive Design
+
 - Desktop-friendly grid layout
 - Mobile-responsive stacked layout
 - Optimized for smaller screens
@@ -63,6 +70,7 @@ The application allows users to:
 ## Requirements
 
 - npm
+- react
 
 ## Setup & Run
 
@@ -81,8 +89,10 @@ npm install lucide-react
 
 # Start development server
 npm run dev
+```
 
-## Live Demo
+---
+
+# Live Demo
 
 [Open Habit Tracker](https://habit-tracker-devweekend.netlify.app/)
-
