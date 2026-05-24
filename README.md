@@ -82,5 +82,6 @@ npm install lucide-react
 # Start development server
 npm run dev
 
-# Live Demo
-https://habit-tracker-devweekend.netlify.app/
+## Live Demo
+
+[Open Habit Tracker](https://habit-tracker-devweekend.netlify.app/)
